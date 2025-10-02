@@ -25,12 +25,13 @@ cd Projeto_integrador
 g++ -o main main.cpp
 ./main
 
-# xecutar scripts Python (se houver):
+# Executar scripts Python (se houver):
 
 python3 script.py
 
-# Estrutura de Diretórios
+# Estrutura do Projeto
 
+```bash
 Projeto_integrador/
 ├── src/                   # Código-fonte do projeto
 │   ├── main.cpp           # Arquivo principal em C++
@@ -38,6 +39,10 @@ Projeto_integrador/
 ├── scripts/               # Scripts auxiliares em Python
 │   └── script.py
 └── README.md              # Este arquivo
+```
+
+
+
 
 # Licença
 
